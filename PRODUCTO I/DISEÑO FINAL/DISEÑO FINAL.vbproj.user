@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="4.- GENERAR_REPORTE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="1.- LOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="2.- MENU_DUENO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="2.- MENU_ENCARGADOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="5.- GESTIONAR_USUARIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="6.- GESTIONAR_INVENTARIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="7.- GENERAR PRELISTA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.- PUNTO_DE_VENTA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
